@@ -1,0 +1,38 @@
+.nav a {
+    color: #5a5a5a;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text_transform: uppercase;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-image: url('http://upload.wikimedia.org/wikipedia/commons/8/82/1_Singapore_city_skyline_2010_day_panorama.jpg');
+    background-size: cover;
+    height: 500px;
+}
+
+#jumbocon {
+    height: 250px;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;
+    font-family: 'Shift', sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    color: #fff;
+}
